@@ -1,0 +1,20 @@
+
+.login-head{
+    font-family: appleMedium;
+}
+@font-face {
+    font-family: appleMedium;
+    src: url("../assest/SFPRODISPLAYMEDIUM.OTF");
+  }
+  
+  @font-face {
+    font-family: appleRegular;
+    src: url("../assest//SFPRODISPLAYREGULAR.OTF");
+  }
+  
+  @font-face {
+    font-family: appleLightItalic;
+    src: url("../assest/SFPRODISPLAYLIGHTITALIC.OTF");
+  }
+
+ 

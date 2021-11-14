@@ -1,0 +1,8 @@
+@font-face {
+    font-family: appleMedium;
+    src: url("../assest/SFPRODISPLAYMEDIUM.OTF");
+  }
+
+body{
+    font-family: appleMedium;
+}

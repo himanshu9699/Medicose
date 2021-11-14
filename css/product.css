@@ -1,0 +1,31 @@
+.product-head{
+    font-family: appleMedium;
+}
+@font-face {
+    font-family: appleMedium;
+    src: url("../assest/SFPRODISPLAYMEDIUM.OTF");
+  }
+  
+@font-face {
+    font-family: appleRegular;
+    src: url("../assest//SFPRODISPLAYREGULAR.OTF");
+  }
+  
+@font-face {
+    font-family: appleLightItalic;
+    src: url("../assest/SFPRODISPLAYLIGHTITALIC.OTF");
+  }
+.nav-link,
+.navbar-brand {
+  color: white !important;
+}
+
+.navbar-brand {
+  font-family: appleLightItalic;
+}
+.form-control {
+    padding: 5px 2px 5px 10px;
+    margin: 3px 0px 2px 0px;
+    height: 90%;
+    width: 100%;
+  }
